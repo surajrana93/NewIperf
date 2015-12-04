@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Suraj/Documents/NewIperf/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="WelcomeTextColor">#fffafa</color>
+    <string name="copyright">Developed by Shir Degani &amp; Yuval Degani © 2011</string>
+    <string name="help_button_title">"?"</string>
+    <string name="i"> i</string>
+    <string name="iperf_text">iPerf for Android</string>
+</resources>
